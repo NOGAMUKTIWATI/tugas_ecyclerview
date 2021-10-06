@@ -14,3 +14,5 @@ Android Versi Lolipop. Bentuk view ini biasa digunakan untuk pembungkusan data (
 
 ![Recycler View](https://user-images.githubusercontent.com/80508180/136192826-5a62b734-3513-421b-b8f6-d73f64e8e237.jpeg)
 ![Recycler View (2)](https://user-images.githubusercontent.com/80508180/136192864-085ccf79-242a-4bd7-9d52-d5a94d216120.jpeg)
+BY E4200415_Noga Muktiwati_Tif A
+
